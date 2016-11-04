@@ -10,5 +10,4 @@ begin
     ReadLn(k);
     if (k mod 4=0) and (k>=4) then WriteLn('YES')
     else WriteLn('NO');
-
 end.
